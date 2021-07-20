@@ -1,0 +1,55 @@
+body {
+    margin: 0px; padding:0px;   font-size: 1.2rem;
+    background-color: #daa4f5; 
+    background-image: linear-gradient(to bottom right, #88f2f2, #daa4f5);    
+/*
+background-color: #0a014f; 
+background-image: linear-gradient(to bottom right, #5757fa, #7718ba);    
+*/
+}
+
+.new-bg{
+    background-color: #0a014f; 
+    background-image: linear-gradient(to bottom right, #5757fa, #0a014f , );    
+}
+
+.p20 {
+    padding:20px;
+}
+
+.my-nav{
+    font-size: 1em; ;
+}
+
+.my-nav a{
+    color:rgb(254, 255, 255);
+    font-size: 1rem; height: 80px;
+}
+
+.saved-word{
+    display: inline-block;
+    color: cornsilk;
+    font-weight: bold;
+}
+
+.my-words{
+    padding: 0 5px; font-size: 1em; 
+    width: 100%;
+  }
+
+.header-big{
+    font-size: 3.5em;
+}
+
+.dash{
+    font-size: 1.5em;
+}
+/*
+#root {
+    color: white;
+    background-color:rgb(122, 54, 122);
+    min-height: 100vh;
+    font-size: 1.5em;
+}
+*/
+
